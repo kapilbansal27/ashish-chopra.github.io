@@ -1,5 +1,5 @@
-# ashish-chopra.github.io
-This repository holds the content published as my personal webpage at [http://ashish-chopra.github.io](http://ashish-chopra.github.io).
+# kapilbansal27.github.io
+This repository holds the content published as my personal webpage at [http://kapilbansal27.github.io](http://kapilbansal27.github.io).
 
 # Attributions
 Well, i have researched many web pages around the web to settle on design and linguistics.
